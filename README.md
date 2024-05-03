@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img alt="Application Demo" src="https://github.com/isabelamoraes/devstore/blob/main/demo/devstore.gif?raw=true" width="70%">
+  <img alt="Application Demo" src="https://github.com/isabelamoraes/devstore/blob/main/demo/devstore.gif?raw=true" width="100%">
 </p>
 
 ## Features
