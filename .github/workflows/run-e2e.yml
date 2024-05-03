@@ -39,6 +39,7 @@ jobs:
         uses: cypress-io/github-action@v6
         env: 
           APP_URL: "http://localhost:3000"
+          # A URL da API foi disponibilizada para consumo durante o curso e pode estar indisponível no futuro
           NEXT_PUBLIC_API_BASE_URL: "https://ignite-devstore-api.vercel.app"
         with:
           build: npm run build
